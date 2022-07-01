@@ -68,7 +68,7 @@
     top: 65px
 }
 
-.n64 .dpad .face.left{
+.custom .dpad .face.left{
     transform: rotate(-90deg);
     top: 33px
 }
@@ -133,7 +133,7 @@
     left: 529px
 }
 
-.custom .back, .n64 .start{
+.custom .back, .custom .start{
     background: url(n64-assets/buttons.svgz);
     width: 61px;
     height: 61px;
